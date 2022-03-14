@@ -1,2 +1,2 @@
 # dsa_queues
-The given repository queue data structures and all its types
+The given repository contains queue data structures and all its types
